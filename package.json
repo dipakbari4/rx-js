@@ -1,0 +1,24 @@
+{
+  "name": "rx",
+  "version": "1.0.0",
+  "description": "ReactiveX Implementation example in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rx-js.git"
+  },
+  "keywords": [
+    "rx",
+    "rx-js",
+    "javascript",
+    "reactivex"
+  ],
+  "author": "Dipak Bari",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.4.0"
+  }
+}
